@@ -1,0 +1,43 @@
+\babel@toc {danish}{}\relax 
+\contentsline {chapter}{Indledning}{4}{chapter*.2}%
+\contentsline {chapter}{Niveau 1}{5}{chapter*.3}%
+\contentsline {section}{Evne beskrivelse}{5}{table.caption.4}%
+\contentsline {subsection}{Brug af Tårnskjold}{5}{section*.5}%
+\contentsline {subsection}{Ekstra NK Niv. 1}{5}{section*.5}%
+\contentsline {subsection}{Indkomst}{5}{section*.5}%
+\contentsline {subsection}{Lave låse Niv. 1}{6}{section*.5}%
+\contentsline {subsection}{Mineral kundskab}{6}{table.caption.6}%
+\contentsline {subsection}{Reparere rustning Niv. 1}{6}{table.caption.6}%
+\contentsline {chapter}{Niveau 2}{7}{chapter*.7}%
+\contentsline {section}{Evne beskrivelse}{7}{table.caption.8}%
+\contentsline {subsection}{Ekstra NK Niv. 1}{7}{section*.9}%
+\contentsline {subsection}{Lave låse Niv. 2}{7}{section*.9}%
+\contentsline {subsection}{Reparere rustning Niv. 2}{8}{table.caption.10}%
+\contentsline {chapter}{Niveau 3}{9}{chapter*.11}%
+\contentsline {section}{Evne beskrivelse}{9}{table.caption.12}%
+\contentsline {subsection}{Ekstra NK Niv. 3}{9}{section*.13}%
+\contentsline {subsection}{Lave låse Niv. 3}{10}{section*.13}%
+\contentsline {subsection}{Reparere rustning Niv. 2}{10}{table.caption.14}%
+\contentsline {subsection}{Torturens vidunder}{10}{table.caption.14}%
+\contentsline {chapter}{Niveau 4}{11}{chapter*.15}%
+\contentsline {section}{Evne beskrivelse for Mestersmed}{11}{section*.16}%
+\contentsline {subsection}{Ekstra NK Niv. 4}{11}{section*.16}%
+\contentsline {subsection}{Læse og skrive Hellig}{12}{section*.16}%
+\contentsline {subsection}{Perfektionist}{12}{figure.caption.17}%
+\contentsline {subsection}{Runesmedning}{13}{figure.caption.17}%
+\contentsline {chapter}{Generelle evner}{19}{chapter*.22}%
+\contentsline {section}{Evne beskrivelse}{19}{table.caption.23}%
+\contentsline {subsection}{6. sans Niv. 1}{19}{section*.24}%
+\contentsline {subsection}{6. sans Niv. 2}{20}{section*.24}%
+\contentsline {subsection}{Bonk}{20}{section*.24}%
+\contentsline {subsection}{Brug af pistol}{20}{section*.24}%
+\contentsline {subsection}{Bære person}{20}{section*.24}%
+\contentsline {subsection}{Førstehjælp}{21}{section*.24}%
+\contentsline {subsection}{Læse og skrive}{21}{section*.24}%
+\contentsline {subsection}{Minearbejder}{21}{section*.24}%
+\contentsline {subsection}{Påfør gift}{21}{section*.24}%
+\contentsline {subsection}{Slagsbror Niv. 1}{21}{section*.24}%
+\contentsline {subsection}{Slagsbror Niv. 2}{22}{section*.24}%
+\contentsline {subsection}{Slagsbror Niv. 2}{22}{section*.24}%
+\contentsline {subsection}{Speciale}{22}{section*.24}%
+\contentsline {subsection}{Urtesamler}{22}{section*.24}%
