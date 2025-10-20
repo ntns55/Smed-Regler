@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  20 OCT 2025 11:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.9.8)  20 OCT 2025 11:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1419,6 +1419,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 53--54
  []
 
 
+Overfull \hbox (7.83286pt too wide) in paragraph at lines 55--55
+[][][]\T1/pplx/m/n/8 Omsmedning 
+ []
+
+
+Overfull \hbox (7.83286pt too wide) in paragraph at lines 55--55
+[][][]\T1/pplx/m/n/8 Omsmedning 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
@@ -1449,12 +1459,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--15
 
 
 [15 <../Evne-Ordbog/setup/Pictures/Nagerune.png>]
-<../Evne-Ordbog/setup/Pictures/Jernrune.png, id=506, 140.525pt x 235.88126pt>
+<../Evne-Ordbog/setup/Pictures/Jernrune.png, id=507, 140.525pt x 235.88126pt>
 File: ../Evne-Ordbog/setup/Pictures/Jernrune.png Graphic file (type png)
 <use ../Evne-Ordbog/setup/Pictures/Jernrune.png>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Pictures/Jernrune.png  used on input line 22.
 (pdftex.def)             Requested size: 93.22922pt x 156.49014pt.
-<../Evne-Ordbog/setup/Pictures/Dragerune.png, id=507, 180.4341pt x 211.2693pt>
+<../Evne-Ordbog/setup/Pictures/Dragerune.png, id=508, 180.4341pt x 211.2693pt>
 File: ../Evne-Ordbog/setup/Pictures/Dragerune.png Graphic file (type png)
 <use ../Evne-Ordbog/setup/Pictures/Dragerune.png>
 Package pdftex.def Info: ../Evne-Ordbog/setup/Pictures/Dragerune.png  used on input line 30.
@@ -1537,20 +1547,20 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-03-26>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C37940EAB2D1E9D6D6F41CE6A41B15DC;6245.
+(rerunfilecheck)             Checksum: 7145C45026F80BB5AAB4DA94D52B4376;6245.
  ) 
 Here is how much of TeX's memory you used:
- 37242 strings out of 469959
- 745076 string characters out of 5470319
- 1183090 words of memory out of 5000000
- 63114 multiletter control sequences out of 15000+600000
+ 37251 strings out of 469959
+ 745272 string characters out of 5470319
+ 1184090 words of memory out of 5000000
+ 63122 multiletter control sequences out of 15000+600000
  682411 words of font info for 134 fonts, out of 8000000 for 9000
  1146 hyphenation exceptions out of 8191
  121i,17n,124p,929b,983s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/NTNS/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (25 pages, 4419752 bytes).
+Output written on main.pdf (25 pages, 4420237 bytes).
 PDF statistics:
- 592 PDF objects out of 1000 (max. 8388607)
- 94 named destinations out of 1000 (max. 500000)
+ 593 PDF objects out of 1000 (max. 8388607)
+ 95 named destinations out of 1000 (max. 500000)
  563 words of extra memory for PDF output out of 10000 (max. 10000000)
 
