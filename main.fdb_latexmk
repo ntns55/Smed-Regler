@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1760952300.62099 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Smed-Regler/main.tex" "main.pdf" "main" 1760952305.59326 0
+["pdflatex"] 1760952373.27927 "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Smed-Regler/main.tex" "main.pdf" "main" 1760952379.3637 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757923834 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757917312 60 887729619453f26a0297a14b4adf473c ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 2.tex" 1757923889 60 c2db4f9e7b7f62de380bf240d1133100 ""
@@ -293,15 +293,15 @@
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/NTNS/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/NTNS/OneDrive - Telenor/Documents/GitHub/Smed-Regler/main.tex" 1758183395 1708 32af04c006d7ae78fffdb0db34d56436 ""
-  "main.aux" 1760952305 8522 506ae58883cd6d4fcbcd66e237f006bd "pdflatex"
-  "main.out" 1760952305 6245 c37940eab2d1e9d6d6f41ce6a41b15dc "pdflatex"
+  "main.aux" 1760952378 8820 13997ccc01c2bad14b354c4188ea8543 "pdflatex"
+  "main.out" 1760952378 6245 7145c45026f80bb5aab4da94d52b4376 "pdflatex"
   "main.tex" 1758183395 1708 32af04c006d7ae78fffdb0db34d56436 ""
-  "main.toc" 1760952305 3015 8bdadc79561512c8d4746ac0b5758d0e "pdflatex"
+  "main.toc" 1760952378 3015 8b320939044c1e787a339807d969ebea "pdflatex"
   "mainstuff/Indledning.tex" 1758632543 1246 4a4d1e2798958d6a6f2b93db58c10837 ""
   "mainstuff/Niv1.tex" 1760950965 1375 43a16387f52361fdfbcd215e25a7c4c9 ""
   "mainstuff/Niv2.tex" 1760952296 1811 160f51f4af29e75a8e3c00845966edf7 ""
   "mainstuff/Niv3.tex" 1760951754 2716 5857ec3cc1274060e93a9f862af017c0 ""
-  "mainstuff/Niv4.tex" 1760952202 4640 27565dd5183d5915b1699c22fd582217 ""
+  "mainstuff/Niv4.tex" 1760952365 4676 0dc9fcd017dd9610c00e8de4d8dc9b5e ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1757330820 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
   (generated)
   "main.aux"

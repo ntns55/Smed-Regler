@@ -30,19 +30,19 @@
 \contentsline {subsection}{Perfektionist}{13}{subsection*.37}%
 \contentsline {subsection}{Titan Smed}{14}{subsection*.38}%
 \contentsline {subsection}{Runesmedning}{14}{subsection*.40}%
-\contentsline {chapter}{Generelle evner}{21}{chapter*.45}%
-\contentsline {section}{Evne beskrivelse}{21}{table.caption.46}%
-\contentsline {subsection}{6. sans Niv. 1}{21}{subsection*.47}%
-\contentsline {subsection}{6. sans Niv. 2}{22}{subsection*.48}%
-\contentsline {subsection}{Bonk}{22}{subsection*.49}%
-\contentsline {subsection}{Brug af pistol}{22}{subsection*.50}%
-\contentsline {subsection}{Bære person}{22}{subsection*.51}%
-\contentsline {subsection}{Førstehjælp}{23}{subsection*.52}%
-\contentsline {subsection}{Læse og skrive}{23}{subsection*.53}%
-\contentsline {subsection}{Minearbejder}{23}{subsection*.54}%
-\contentsline {subsection}{Påfør gift}{23}{subsection*.55}%
-\contentsline {subsection}{Slagsbror Niv. 1}{23}{subsection*.56}%
-\contentsline {subsection}{Slagsbror Niv. 2}{24}{subsection*.57}%
+\contentsline {chapter}{Generelle evner}{21}{chapter*.46}%
+\contentsline {section}{Evne beskrivelse}{21}{table.caption.47}%
+\contentsline {subsection}{6. sans Niv. 1}{21}{subsection*.48}%
+\contentsline {subsection}{6. sans Niv. 2}{22}{subsection*.49}%
+\contentsline {subsection}{Bonk}{22}{subsection*.50}%
+\contentsline {subsection}{Brug af pistol}{22}{subsection*.51}%
+\contentsline {subsection}{Bære person}{22}{subsection*.52}%
+\contentsline {subsection}{Førstehjælp}{23}{subsection*.53}%
+\contentsline {subsection}{Læse og skrive}{23}{subsection*.54}%
+\contentsline {subsection}{Minearbejder}{23}{subsection*.55}%
+\contentsline {subsection}{Påfør gift}{23}{subsection*.56}%
+\contentsline {subsection}{Slagsbror Niv. 1}{23}{subsection*.57}%
 \contentsline {subsection}{Slagsbror Niv. 2}{24}{subsection*.58}%
-\contentsline {subsection}{Speciale}{24}{subsection*.59}%
-\contentsline {subsection}{Urtesamler}{24}{subsection*.60}%
+\contentsline {subsection}{Slagsbror Niv. 2}{24}{subsection*.59}%
+\contentsline {subsection}{Speciale}{24}{subsection*.60}%
+\contentsline {subsection}{Urtesamler}{24}{subsection*.61}%
