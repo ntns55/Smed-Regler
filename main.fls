@@ -525,14 +525,14 @@ INPUT .\mainstuff\Niv1.tex
 INPUT mainstuff\Niv1.tex
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
-INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
-INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
-INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
-INPUT ..\Evne-Ordbog\Indkomst.tex
-INPUT ..\Evne-Ordbog\Indkomst.tex
-INPUT ..\Evne-Ordbog\Indkomst.tex
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 1.tex
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9e.tfm
+INPUT ..\Evne-Ordbog\Indkomst.tex
+INPUT ..\Evne-Ordbog\Indkomst.tex
+INPUT ..\Evne-Ordbog\Indkomst.tex
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9e.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
@@ -562,9 +562,18 @@ INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
 INPUT ..\Evne-Ordbog\Reparere rustning Niv. 1.tex
 INPUT ..\Evne-Ordbog\Reparere rustning Niv. 1.tex
 INPUT ..\Evne-Ordbog\Reparere rustning Niv. 1.tex
@@ -573,15 +582,9 @@ INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
 INPUT .\mainstuff\Niv2.tex
 INPUT mainstuff\Niv2.tex
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9e.vf
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
+INPUT ..\Evne-Ordbog\Ekstra LP\Ekstra LP Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra LP\Ekstra LP Niv. 1.tex
+INPUT ..\Evne-Ordbog\Ekstra LP\Ekstra LP Niv. 1.tex
 INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 2.tex
 INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 2.tex
 INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 2.tex
@@ -597,16 +600,17 @@ INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplx.fd
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplx.fd
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\ts1pplx.fd
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplr9c.tfm
-INPUT ..\Evne-Ordbog\Torturens Vidunder.tex
-INPUT ..\Evne-Ordbog\Torturens Vidunder.tex
-INPUT ..\Evne-Ordbog\Torturens Vidunder.tex
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9e.tfm
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9c.vf
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
+INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT .\mainstuff\Niv4.tex
 INPUT mainstuff\Niv4.tex
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplr9c.vf
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
 INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 4.tex
 INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 4.tex
 INPUT ..\Evne-Ordbog\Ekstra NK\Ekstra NK Niv. 4.tex
@@ -623,41 +627,37 @@ INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb9
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplb9e.vf
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
 INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri9e.tfm
 INPUT ..\Evne-Ordbog\RuneGenstande.tex
 INPUT ..\Evne-Ordbog\RuneGenstande.tex
 INPUT ..\Evne-Ordbog\RuneGenstande.tex
-INPUT .\setup\Pictures\Nagerune.png
-INPUT .\setup\Pictures\Nagerune.png
-INPUT .\setup\Pictures\Nagerune.png
-INPUT .\setup\Pictures\Nagerune.png
-INPUT .\setup\Pictures\Nagerune.png
-INPUT .\setup\Pictures\Nagerune.png
-INPUT .\setup\Pictures\Nagerune.png
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\palatino\pplri9e.vf
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\NTNS\AppData\Local\Programs\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT .\setup\Pictures\Elementrune.png
-INPUT .\setup\Pictures\Elementrune.png
-INPUT .\setup\Pictures\Elementrune.png
-INPUT .\setup\Pictures\Elementrune.png
-INPUT .\setup\Pictures\Elementrune.png
-INPUT .\setup\Pictures\Elementrune.png
-INPUT .\setup\Pictures\Elementrune.png
-INPUT .\setup\Pictures\Jernrune.png
-INPUT .\setup\Pictures\Jernrune.png
-INPUT .\setup\Pictures\Jernrune.png
-INPUT .\setup\Pictures\Jernrune.png
-INPUT .\setup\Pictures\Jernrune.png
-INPUT .\setup\Pictures\Jernrune.png
-INPUT .\setup\Pictures\Jernrune.png
-INPUT .\setup\Pictures\Dragerune.png
-INPUT .\setup\Pictures\Dragerune.png
-INPUT .\setup\Pictures\Dragerune.png
-INPUT .\setup\Pictures\Dragerune.png
-INPUT .\setup\Pictures\Dragerune.png
-INPUT .\setup\Pictures\Dragerune.png
-INPUT .\setup\Pictures\Dragerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Nagerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Nagerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Nagerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Nagerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Nagerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Nagerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Nagerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Elementrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Elementrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Elementrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Elementrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Elementrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Elementrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Elementrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Jernrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Jernrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Jernrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Jernrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Jernrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Jernrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Jernrune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Dragerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Dragerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Dragerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Dragerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Dragerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Dragerune.png
+INPUT ..\Evne-Ordbog\setup\Pictures\Dragerune.png
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
 INPUT ..\Evne-Ordbog\GenerelleEvner\GenerelleEvnerIngenMagiIngenTohånds.tex
