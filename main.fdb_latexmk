@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1761068117.32387 "c:/Users/niels/Documents/GitHub/Smed-Regler/main.tex" "main.pdf" "main" 1761068120.46472 0
+["pdflatex"] 1761073702.08725 "c:/Users/niels/Documents/GitHub/Smed-Regler/main.tex" "main.pdf" "main" 1761073705.10175 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757946765 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757886439 60 887729619453f26a0297a14b4adf473c ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 2.tex" 1757946765 60 c2db4f9e7b7f62de380bf240d1133100 ""
@@ -23,7 +23,7 @@
   "../Evne-Ordbog/Indkomst.tex" 1757882550 128 0f6547ddb27b22e6adf149cf30aab63e ""
   "../Evne-Ordbog/Læse og skrive/Læse og skrive Hellig.tex" 1757882564 269 6b7f2f30951bcbcf6e9c551cfa30d197 ""
   "../Evne-Ordbog/Reparere rustning Niv. 1.tex" 1761065954 329 96f6d53def0a81e19581b924bd4f5b5a ""
-  "../Evne-Ordbog/RuneGenstande.tex" 1761067269 6404 0b3701897d1f3a13116643d4d5b314a6 ""
+  "../Evne-Ordbog/RuneGenstande.tex" 1761073701 6392 06267a23efda131b9c5c8e03e1ddb68c ""
   "../Evne-Ordbog/setup/Alfabeter/Helligt alfabet.pdf" 1754339026 123684 bd9249c874504e8fc4ef28ba35a13ab8 ""
   "../Evne-Ordbog/setup/Pictures/Dragerune.png" 1754339026 22846 1199edde19d48c7d2bd4a7f4f4feab9d ""
   "../Evne-Ordbog/setup/Pictures/Elementrune.png" 1754339026 3967 bbca9ff64f75902bd1be812557eb5ccc ""
@@ -289,15 +289,15 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Smed-Regler/main.tex" 1761062721 1708 32af04c006d7ae78fffdb0db34d56436 ""
-  "main.aux" 1761068120 6668 aee9a5cfca6f9f6ca077a598da494690 "pdflatex"
-  "main.out" 1761068120 6110 574621765c73f088b3ba5ed88d9ca852 "pdflatex"
+  "main.aux" 1761073704 6668 aee9a5cfca6f9f6ca077a598da494690 "pdflatex"
+  "main.out" 1761073704 6110 574621765c73f088b3ba5ed88d9ca852 "pdflatex"
   "main.tex" 1761062721 1708 32af04c006d7ae78fffdb0db34d56436 ""
-  "main.toc" 1761068120 2950 9a7b7f168ec0d4f115b77838f42dc54b "pdflatex"
+  "main.toc" 1761073704 2950 9a7b7f168ec0d4f115b77838f42dc54b "pdflatex"
   "mainstuff/Indledning.tex" 1758741950 1246 4a4d1e2798958d6a6f2b93db58c10837 ""
   "mainstuff/Niv1.tex" 1761065353 1374 dbccd05003992ad7a3ff4e39ae2382c8 ""
   "mainstuff/Niv2.tex" 1761065975 1831 4c9782ca764815571fddda1add54d210 ""
   "mainstuff/Niv3.tex" 1761066358 2717 995f3993539ff955c33e6af943f9cb72 ""
-  "mainstuff/Niv4.tex" 1761067668 4136 edbb5bcd17c4c1ff2bc0f33d71fe0ed5 ""
+  "mainstuff/Niv4.tex" 1761069534 4136 0a79871c7ec0fdf0f081c76ba116c348 ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1754339229 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
   (generated)
   "main.aux"
