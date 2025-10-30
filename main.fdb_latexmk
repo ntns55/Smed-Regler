@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1761678073.90422 "c:/Users/niels/Documents/GitHub/Smed-Regler/main.tex" "main.pdf" "main" 1761678077.14226 0
+["pdflatex"] 1761846233.64334 "c:/Users/niels/Documents/GitHub/Smed-Regler/main.tex" "main.pdf" "main" 1761846236.71628 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757946765 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757886439 60 887729619453f26a0297a14b4adf473c ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 2.tex" 1757946765 60 c2db4f9e7b7f62de380bf240d1133100 ""
@@ -288,13 +288,13 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Smed-Regler/main.tex" 1761062721 1708 32af04c006d7ae78fffdb0db34d56436 ""
-  "main.aux" 1761678076 6646 8bd647b7150ca00f0b6de3daa380bd8d "pdflatex"
-  "main.out" 1761678076 5906 01453626a42abdd9e99ee24c1e7fb752 "pdflatex"
+  "main.aux" 1761846236 6646 8bd647b7150ca00f0b6de3daa380bd8d "pdflatex"
+  "main.out" 1761846236 5906 01453626a42abdd9e99ee24c1e7fb752 "pdflatex"
   "main.tex" 1761062721 1708 32af04c006d7ae78fffdb0db34d56436 ""
-  "main.toc" 1761678076 2893 e7e8c3b3578391e3ff35ec696abd49e1 "pdflatex"
+  "main.toc" 1761846236 2893 e7e8c3b3578391e3ff35ec696abd49e1 "pdflatex"
   "mainstuff/Indledning.tex" 1758741950 1246 4a4d1e2798958d6a6f2b93db58c10837 ""
   "mainstuff/Niv1.tex" 1761350934 1456 7c04e826d1aa2da6f67344007c1b9c6b ""
-  "mainstuff/Niv2.tex" 1761350934 1999 bd6de8954743d087e2aabd7cd66c5c5e ""
+  "mainstuff/Niv2.tex" 1761846233 1962 c44f218a80b748d13d54be5bc709491f ""
   "mainstuff/Niv3.tex" 1761350934 2883 2e38739db228551eddfb170ea5a02f8b ""
   "mainstuff/Niv4.tex" 1761350934 4218 3cf3f7a98a3d68c1276046a56baf6924 ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1754339229 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
