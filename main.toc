@@ -2,10 +2,10 @@
 \contentsline {chapter}{\numberline {1}Indledning}{4}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Niveau 1}{5}{chapter.2}%
 \contentsline {section}{Evne beskrivelse}{5}{section*.3}%
-\contentsline {subsection}{Ekstra NK Niv. 1}{5}{subsection*.5}%
-\contentsline {subsection}{Indkomst}{5}{subsection*.6}%
-\contentsline {subsection}{Lave låse Niv. 1}{6}{subsection*.7}%
-\contentsline {subsection}{Reparere rustning Niv. 1}{6}{table.caption.8}%
+\contentsline {subsection}{Ekstra NK Niv. 1}{5}{subsection*.4}%
+\contentsline {subsection}{Indkomst}{5}{subsection*.5}%
+\contentsline {subsection}{Lave låse Niv. 1}{6}{subsection*.6}%
+\contentsline {subsection}{Reparere rustning Niv. 1}{6}{subsection*.8}%
 \contentsline {chapter}{\numberline {3}Niveau 2}{7}{chapter.3}%
 \contentsline {section}{Evne beskrivelse}{7}{section*.10}%
 \contentsline {subsection}{Ekspertvidne}{7}{subsection*.11}%
@@ -31,16 +31,16 @@
 \contentsline {subsection}{Runesmedning}{13}{subsection*.33}%
 \contentsline {chapter}{\numberline {6}Generelle evner}{20}{chapter.6}%
 \contentsline {section}{Evne beskrivelse}{20}{section*.39}%
-\contentsline {subsection}{6. sans Niv. 1}{20}{subsection*.40}%
-\contentsline {subsection}{6. sans Niv. 2}{21}{subsection*.41}%
-\contentsline {subsection}{Bonk}{21}{subsection*.42}%
-\contentsline {subsection}{Brug af pistol}{21}{subsection*.43}%
-\contentsline {subsection}{Bære person}{21}{subsection*.44}%
-\contentsline {subsection}{Førstehjælp}{22}{subsection*.45}%
-\contentsline {subsection}{Minearbejder}{22}{subsection*.46}%
-\contentsline {subsection}{Påfør gift}{22}{subsection*.47}%
+\contentsline {subsection}{6. sans}{20}{subsection*.40}%
+\contentsline {subsection}{Bonk}{21}{subsection*.41}%
+\contentsline {subsection}{Brug af pistol}{21}{subsection*.42}%
+\contentsline {subsection}{Bære person}{21}{subsection*.43}%
+\contentsline {subsection}{Førstehjælp}{21}{subsection*.44}%
+\contentsline {subsection}{Minearbejder}{22}{subsection*.45}%
+\contentsline {subsection}{Påfør gift}{22}{subsection*.46}%
+\contentsline {subsection}{Samler}{22}{subsection*.47}%
 \contentsline {subsection}{Slagsbror Niv. 1}{23}{subsection*.48}%
 \contentsline {subsection}{Slagsbror Niv. 2}{23}{subsection*.49}%
-\contentsline {subsection}{Slagsbror Niv. 2}{23}{subsection*.50}%
+\contentsline {subsection}{Slagsbror Niv. 3}{23}{subsection*.50}%
 \contentsline {subsection}{Speciale}{23}{subsection*.51}%
-\contentsline {subsection}{Urtesamler}{24}{subsection*.52}%
+\contentsline {subsection}{Urtesamler}{23}{subsection*.52}%
