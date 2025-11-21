@@ -29,18 +29,18 @@
 \contentsline {subsection}{Perfektionist}{13}{subsection*.31}%
 \contentsline {subsection}{Titan Smed}{13}{subsection*.32}%
 \contentsline {subsection}{Runesmedning}{13}{subsection*.33}%
-\contentsline {chapter}{\numberline {6}Generelle evner}{20}{chapter.6}%
-\contentsline {section}{Evne beskrivelse}{20}{section*.39}%
-\contentsline {subsection}{6. sans}{20}{subsection*.40}%
-\contentsline {subsection}{Bonk}{21}{subsection*.41}%
-\contentsline {subsection}{Brug af pistol}{21}{subsection*.42}%
-\contentsline {subsection}{Bære person}{21}{subsection*.43}%
-\contentsline {subsection}{Førstehjælp}{21}{subsection*.44}%
-\contentsline {subsection}{Minearbejder}{22}{subsection*.45}%
-\contentsline {subsection}{Påfør gift}{22}{subsection*.46}%
-\contentsline {subsection}{Samler}{22}{subsection*.47}%
-\contentsline {subsection}{Slagsbror Niv. 1}{23}{subsection*.48}%
-\contentsline {subsection}{Slagsbror Niv. 2}{23}{subsection*.49}%
-\contentsline {subsection}{Slagsbror Niv. 3}{23}{subsection*.50}%
-\contentsline {subsection}{Speciale}{23}{subsection*.51}%
-\contentsline {subsection}{Urtesamler}{23}{subsection*.52}%
+\contentsline {chapter}{\numberline {6}Generelle evner}{22}{chapter.6}%
+\contentsline {section}{Evne beskrivelse}{22}{section*.39}%
+\contentsline {subsection}{6. sans}{22}{subsection*.40}%
+\contentsline {subsection}{Bonk}{23}{subsection*.41}%
+\contentsline {subsection}{Brug af pistol}{23}{subsection*.42}%
+\contentsline {subsection}{Bære person}{23}{subsection*.43}%
+\contentsline {subsection}{Førstehjælp}{23}{subsection*.44}%
+\contentsline {subsection}{Minearbejder}{24}{subsection*.45}%
+\contentsline {subsection}{Påfør gift}{24}{subsection*.46}%
+\contentsline {subsection}{Samler}{24}{subsection*.47}%
+\contentsline {subsection}{Slagsbror Niv. 1}{25}{subsection*.48}%
+\contentsline {subsection}{Slagsbror Niv. 2}{25}{subsection*.49}%
+\contentsline {subsection}{Slagsbror Niv. 3}{25}{subsection*.50}%
+\contentsline {subsection}{Speciale}{25}{subsection*.51}%
+\contentsline {subsection}{Urtesamler}{25}{subsection*.52}%
