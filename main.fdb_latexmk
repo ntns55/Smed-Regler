@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763688149.56721 "c:/Users/niels/Documents/GitHub/Smed-Regler/main.tex" "main.pdf" "main" 1763688152.66976 0
+["pdflatex"] 1763908014.8134 "c:/Users/niels/Documents/GitHub/Smed-Regler/main.tex" "main.pdf" "main" 1763908018.02416 0
   "../Evne-Ordbog/Ekstra LP/Ekstra LP Niv. 1.tex" 1757946765 54 89dd3a85b9d7c5123617a806108ebc52 ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 1.tex" 1757886439 60 887729619453f26a0297a14b4adf473c ""
   "../Evne-Ordbog/Ekstra NK/Ekstra NK Niv. 2.tex" 1757946765 60 c2db4f9e7b7f62de380bf240d1133100 ""
@@ -297,15 +297,15 @@
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-abspage.sty" 1750428951 2269 2de6c7a5fd634dfef00a960544463a38 ""
   "C:/Users/niels/AppData/Local/Programs/MiKTeX/tex/latex/zref/zref-base.sty" 1750428951 20785 198a9cb2e04238d92c320d0d9edbd76a ""
   "c:/Users/niels/Documents/GitHub/Smed-Regler/main.tex" 1761062721 1708 32af04c006d7ae78fffdb0db34d56436 ""
-  "main.aux" 1763688152 6325 ad03924f0e270962a2d0deffa4fba425 "pdflatex"
-  "main.out" 1763688152 5814 f314162fdb11d504f75671592a5a924e "pdflatex"
+  "main.aux" 1763908017 6325 ad03924f0e270962a2d0deffa4fba425 "pdflatex"
+  "main.out" 1763908017 5814 f314162fdb11d504f75671592a5a924e "pdflatex"
   "main.tex" 1761062721 1708 32af04c006d7ae78fffdb0db34d56436 ""
-  "main.toc" 1763688152 2876 26221fbbbb80488659bae6fcdaaa4fe6 "pdflatex"
+  "main.toc" 1763908017 2876 26221fbbbb80488659bae6fcdaaa4fe6 "pdflatex"
   "mainstuff/Indledning.tex" 1758741950 1246 4a4d1e2798958d6a6f2b93db58c10837 ""
   "mainstuff/Niv1.tex" 1762609088 777 2916e511a564cf868370fab441dd8365 ""
   "mainstuff/Niv2.tex" 1763116904 1966 8c49e2a2afc58ea1b56232b2308a02f9 ""
   "mainstuff/Niv3.tex" 1763117238 2923 73dcb5e580cc0aaffe32b098e3a4dea9 ""
-  "mainstuff/Niv4.tex" 1763688148 4223 9eaeaf48152e2626cdf48aaad68857b4 ""
+  "mainstuff/Niv4.tex" 1763908014 4224 670522816ca5b39019505897a04cee32 ""
   "setup/Pictures/A01.C01.01_Front_Billede.png" 1754339229 6403955 f084c9143d1fcc3045f3c66faf856f1d ""
   (generated)
   "main.aux"
